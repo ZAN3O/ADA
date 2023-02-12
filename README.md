@@ -1,18 +1,19 @@
 # ADA
-Assistant Virtuel
+Virtual Assistant
 
-C'est un assistant virtuel personnalisé afin de vous aider dans vos tâches( surtout dans le domaine de la programmation ).
+!!WIP!!
 
-Ex: Dites "Ouvre  stackoverflow"
-Ex: Dites "Encyclopédie Jean Genet"
-Ex: dites "Quel est la météo aujourd'hui"
+It is a (french) personnalized virtual assistant.
 
-Installez les libraries suivantes dans la console PyCharm :
+Ex: Say "Ouvre  stackoverflow"
+Ex: Say "Encyclopédie Jean Genet"
+Ex: Say "Quel est la météo aujourd'hui"
+
+Dependencies :
 
 pip install wikipedia,
 pip install pyttsx3,
 pip install wolframalpha,
 pip install pyaudio,
-( si cela ne marche pas essayez pip install pipwin, puis pipwin install pyaudio, ou sinon conda install pyaudio),
 pip install SpeechRecognition,
 (pip install requests)
